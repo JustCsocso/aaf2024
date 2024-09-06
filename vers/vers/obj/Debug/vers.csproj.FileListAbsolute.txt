@@ -1,0 +1,7 @@
+D:\munkakönyvtár\pintercsongi\aaf2024\vers\vers\bin\Debug\vers.exe.config
+D:\munkakönyvtár\pintercsongi\aaf2024\vers\vers\bin\Debug\vers.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\vers\vers\bin\Debug\vers.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\vers\vers\obj\Debug\vers.csproj.AssemblyReference.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\vers\vers\obj\Debug\vers.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\vers\vers\obj\Debug\vers.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\vers\vers\obj\Debug\vers.pdb
