@@ -1,0 +1,7 @@
+D:\munkakönyvtár\pintercsongi\aaf2024\vnev\vnev\bin\Debug\vnev.exe.config
+D:\munkakönyvtár\pintercsongi\aaf2024\vnev\vnev\bin\Debug\vnev.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\vnev\vnev\bin\Debug\vnev.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\vnev\vnev\obj\Debug\vnev.csproj.AssemblyReference.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\vnev\vnev\obj\Debug\vnev.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\vnev\vnev\obj\Debug\vnev.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\vnev\vnev\obj\Debug\vnev.pdb
