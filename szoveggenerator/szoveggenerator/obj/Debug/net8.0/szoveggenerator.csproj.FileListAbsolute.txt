@@ -1,0 +1,15 @@
+D:\munkakönyvtár\pintercsongi\aaf2024\szoveggenerator\szoveggenerator\bin\Debug\net8.0\szoveggenerator.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\szoveggenerator\szoveggenerator\bin\Debug\net8.0\szoveggenerator.deps.json
+D:\munkakönyvtár\pintercsongi\aaf2024\szoveggenerator\szoveggenerator\bin\Debug\net8.0\szoveggenerator.runtimeconfig.json
+D:\munkakönyvtár\pintercsongi\aaf2024\szoveggenerator\szoveggenerator\bin\Debug\net8.0\szoveggenerator.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\szoveggenerator\szoveggenerator\bin\Debug\net8.0\szoveggenerator.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\szoveggenerator\szoveggenerator\obj\Debug\net8.0\szoveggenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\pintercsongi\aaf2024\szoveggenerator\szoveggenerator\obj\Debug\net8.0\szoveggenerator.AssemblyInfoInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\szoveggenerator\szoveggenerator\obj\Debug\net8.0\szoveggenerator.AssemblyInfo.cs
+D:\munkakönyvtár\pintercsongi\aaf2024\szoveggenerator\szoveggenerator\obj\Debug\net8.0\szoveggenerator.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\szoveggenerator\szoveggenerator\obj\Debug\net8.0\szoveggenerator.sourcelink.json
+D:\munkakönyvtár\pintercsongi\aaf2024\szoveggenerator\szoveggenerator\obj\Debug\net8.0\szoveggenerator.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\szoveggenerator\szoveggenerator\obj\Debug\net8.0\refint\szoveggenerator.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\szoveggenerator\szoveggenerator\obj\Debug\net8.0\szoveggenerator.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\szoveggenerator\szoveggenerator\obj\Debug\net8.0\szoveggenerator.genruntimeconfig.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\szoveggenerator\szoveggenerator\obj\Debug\net8.0\ref\szoveggenerator.dll
