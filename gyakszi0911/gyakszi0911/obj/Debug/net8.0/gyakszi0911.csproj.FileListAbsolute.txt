@@ -1,0 +1,15 @@
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakszi0911\gyakszi0911\bin\Debug\net8.0\gyakszi0911.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakszi0911\gyakszi0911\bin\Debug\net8.0\gyakszi0911.deps.json
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakszi0911\gyakszi0911\bin\Debug\net8.0\gyakszi0911.runtimeconfig.json
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakszi0911\gyakszi0911\bin\Debug\net8.0\gyakszi0911.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakszi0911\gyakszi0911\bin\Debug\net8.0\gyakszi0911.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakszi0911\gyakszi0911\obj\Debug\net8.0\gyakszi0911.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakszi0911\gyakszi0911\obj\Debug\net8.0\gyakszi0911.AssemblyInfoInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakszi0911\gyakszi0911\obj\Debug\net8.0\gyakszi0911.AssemblyInfo.cs
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakszi0911\gyakszi0911\obj\Debug\net8.0\gyakszi0911.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakszi0911\gyakszi0911\obj\Debug\net8.0\gyakszi0911.sourcelink.json
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakszi0911\gyakszi0911\obj\Debug\net8.0\gyakszi0911.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakszi0911\gyakszi0911\obj\Debug\net8.0\refint\gyakszi0911.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakszi0911\gyakszi0911\obj\Debug\net8.0\gyakszi0911.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakszi0911\gyakszi0911\obj\Debug\net8.0\gyakszi0911.genruntimeconfig.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakszi0911\gyakszi0911\obj\Debug\net8.0\ref\gyakszi0911.dll
