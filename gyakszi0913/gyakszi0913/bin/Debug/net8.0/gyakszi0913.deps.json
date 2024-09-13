@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "gyakszi0913/1.0.0": {
+        "runtime": {
+          "gyakszi0913.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gyakszi0913/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

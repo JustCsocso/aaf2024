@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\gyakszi0913\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA0FB2A-5ADD-4C05-9229-5F0C47A7097E}|gyakszi0913\\gyakszi0913.csproj|d:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\gyakszi0913\\gyakszi0913\\kutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA0FB2A-5ADD-4C05-9229-5F0C47A7097E}|gyakszi0913\\gyakszi0913.csproj|solutionrelative:gyakszi0913\\kutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA0FB2A-5ADD-4C05-9229-5F0C47A7097E}|gyakszi0913\\gyakszi0913.csproj|d:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\gyakszi0913\\gyakszi0913\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA0FB2A-5ADD-4C05-9229-5F0C47A7097E}|gyakszi0913\\gyakszi0913.csproj|solutionrelative:gyakszi0913\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kutya.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\gyakszi0913\\gyakszi0913\\kutya.cs",
+              "RelativeDocumentMoniker": "gyakszi0913\\kutya.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\gyakszi0913\\gyakszi0913\\kutya.cs",
+              "RelativeToolTip": "gyakszi0913\\kutya.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:44:27.021Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\gyakszi0913\\gyakszi0913\\Program.cs",
+              "RelativeDocumentMoniker": "gyakszi0913\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\gyakszi0913\\gyakszi0913\\Program.cs",
+              "RelativeToolTip": "gyakszi0913\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:44:03.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
