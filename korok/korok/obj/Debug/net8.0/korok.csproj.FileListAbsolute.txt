@@ -1,0 +1,15 @@
+D:\munkakönyvtár\pintercsongi\aaf2024\korok\korok\obj\Debug\net8.0\korok.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\pintercsongi\aaf2024\korok\korok\obj\Debug\net8.0\korok.AssemblyInfoInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\korok\korok\obj\Debug\net8.0\korok.AssemblyInfo.cs
+D:\munkakönyvtár\pintercsongi\aaf2024\korok\korok\obj\Debug\net8.0\korok.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\korok\korok\obj\Debug\net8.0\korok.sourcelink.json
+D:\munkakönyvtár\pintercsongi\aaf2024\korok\korok\bin\Debug\net8.0\korok.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\korok\korok\bin\Debug\net8.0\korok.deps.json
+D:\munkakönyvtár\pintercsongi\aaf2024\korok\korok\bin\Debug\net8.0\korok.runtimeconfig.json
+D:\munkakönyvtár\pintercsongi\aaf2024\korok\korok\bin\Debug\net8.0\korok.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\korok\korok\bin\Debug\net8.0\korok.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\korok\korok\obj\Debug\net8.0\korok.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\korok\korok\obj\Debug\net8.0\refint\korok.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\korok\korok\obj\Debug\net8.0\korok.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\korok\korok\obj\Debug\net8.0\korok.genruntimeconfig.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\korok\korok\obj\Debug\net8.0\ref\korok.dll

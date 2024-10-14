@@ -1,0 +1,15 @@
+D:\munkakönyvtár\pintercsongi\aaf2024\hajo\hajo\hajo\bin\Debug\net8.0\hajo.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\hajo\hajo\hajo\bin\Debug\net8.0\hajo.deps.json
+D:\munkakönyvtár\pintercsongi\aaf2024\hajo\hajo\hajo\bin\Debug\net8.0\hajo.runtimeconfig.json
+D:\munkakönyvtár\pintercsongi\aaf2024\hajo\hajo\hajo\bin\Debug\net8.0\hajo.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\hajo\hajo\hajo\bin\Debug\net8.0\hajo.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\hajo\hajo\hajo\obj\Debug\net8.0\hajo.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\pintercsongi\aaf2024\hajo\hajo\hajo\obj\Debug\net8.0\hajo.AssemblyInfoInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\hajo\hajo\hajo\obj\Debug\net8.0\hajo.AssemblyInfo.cs
+D:\munkakönyvtár\pintercsongi\aaf2024\hajo\hajo\hajo\obj\Debug\net8.0\hajo.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\hajo\hajo\hajo\obj\Debug\net8.0\hajo.sourcelink.json
+D:\munkakönyvtár\pintercsongi\aaf2024\hajo\hajo\hajo\obj\Debug\net8.0\hajo.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\hajo\hajo\hajo\obj\Debug\net8.0\refint\hajo.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\hajo\hajo\hajo\obj\Debug\net8.0\hajo.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\hajo\hajo\hajo\obj\Debug\net8.0\hajo.genruntimeconfig.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\hajo\hajo\hajo\obj\Debug\net8.0\ref\hajo.dll
