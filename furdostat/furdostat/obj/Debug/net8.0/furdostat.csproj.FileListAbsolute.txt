@@ -1,0 +1,15 @@
+D:\munkakönyvtár\pintercsongi\aaf2024\furdostat\furdostat\bin\Debug\net8.0\furdostat.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\furdostat\furdostat\bin\Debug\net8.0\furdostat.deps.json
+D:\munkakönyvtár\pintercsongi\aaf2024\furdostat\furdostat\bin\Debug\net8.0\furdostat.runtimeconfig.json
+D:\munkakönyvtár\pintercsongi\aaf2024\furdostat\furdostat\bin\Debug\net8.0\furdostat.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\furdostat\furdostat\bin\Debug\net8.0\furdostat.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\furdostat\furdostat\obj\Debug\net8.0\furdostat.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\pintercsongi\aaf2024\furdostat\furdostat\obj\Debug\net8.0\furdostat.AssemblyInfoInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\furdostat\furdostat\obj\Debug\net8.0\furdostat.AssemblyInfo.cs
+D:\munkakönyvtár\pintercsongi\aaf2024\furdostat\furdostat\obj\Debug\net8.0\furdostat.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\furdostat\furdostat\obj\Debug\net8.0\furdostat.sourcelink.json
+D:\munkakönyvtár\pintercsongi\aaf2024\furdostat\furdostat\obj\Debug\net8.0\furdostat.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\furdostat\furdostat\obj\Debug\net8.0\refint\furdostat.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\furdostat\furdostat\obj\Debug\net8.0\furdostat.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\furdostat\furdostat\obj\Debug\net8.0\furdostat.genruntimeconfig.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\furdostat\furdostat\obj\Debug\net8.0\ref\furdostat.dll
