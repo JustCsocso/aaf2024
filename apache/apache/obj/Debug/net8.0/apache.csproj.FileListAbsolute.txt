@@ -1,0 +1,15 @@
+D:\munkakönyvtár\pintercsongi\aaf2024\apache\apache\bin\Debug\net8.0\apache.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\apache\apache\bin\Debug\net8.0\apache.deps.json
+D:\munkakönyvtár\pintercsongi\aaf2024\apache\apache\bin\Debug\net8.0\apache.runtimeconfig.json
+D:\munkakönyvtár\pintercsongi\aaf2024\apache\apache\bin\Debug\net8.0\apache.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\apache\apache\bin\Debug\net8.0\apache.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\apache\apache\obj\Debug\net8.0\apache.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\pintercsongi\aaf2024\apache\apache\obj\Debug\net8.0\apache.AssemblyInfoInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\apache\apache\obj\Debug\net8.0\apache.AssemblyInfo.cs
+D:\munkakönyvtár\pintercsongi\aaf2024\apache\apache\obj\Debug\net8.0\apache.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\apache\apache\obj\Debug\net8.0\apache.sourcelink.json
+D:\munkakönyvtár\pintercsongi\aaf2024\apache\apache\obj\Debug\net8.0\apache.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\apache\apache\obj\Debug\net8.0\refint\apache.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\apache\apache\obj\Debug\net8.0\apache.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\apache\apache\obj\Debug\net8.0\apache.genruntimeconfig.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\apache\apache\obj\Debug\net8.0\ref\apache.dll
