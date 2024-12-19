@@ -1,0 +1,15 @@
+D:\munkakönyvtár\pintercsongi\aaf2024\belepteto\belepteto\bin\Debug\net8.0\belepteto.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\belepteto\belepteto\bin\Debug\net8.0\belepteto.deps.json
+D:\munkakönyvtár\pintercsongi\aaf2024\belepteto\belepteto\bin\Debug\net8.0\belepteto.runtimeconfig.json
+D:\munkakönyvtár\pintercsongi\aaf2024\belepteto\belepteto\bin\Debug\net8.0\belepteto.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\belepteto\belepteto\bin\Debug\net8.0\belepteto.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\belepteto\belepteto\obj\Debug\net8.0\belepteto.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\pintercsongi\aaf2024\belepteto\belepteto\obj\Debug\net8.0\belepteto.AssemblyInfoInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\belepteto\belepteto\obj\Debug\net8.0\belepteto.AssemblyInfo.cs
+D:\munkakönyvtár\pintercsongi\aaf2024\belepteto\belepteto\obj\Debug\net8.0\belepteto.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\belepteto\belepteto\obj\Debug\net8.0\belepteto.sourcelink.json
+D:\munkakönyvtár\pintercsongi\aaf2024\belepteto\belepteto\obj\Debug\net8.0\belepteto.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\belepteto\belepteto\obj\Debug\net8.0\refint\belepteto.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\belepteto\belepteto\obj\Debug\net8.0\belepteto.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\belepteto\belepteto\obj\Debug\net8.0\belepteto.genruntimeconfig.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\belepteto\belepteto\obj\Debug\net8.0\ref\belepteto.dll

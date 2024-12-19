@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("apache")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04d82661488e58b4ba063e984d757c1be347874e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5685ce26f6e416ed61014fe98ec3ce7ee36ceb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("apache")]
 [assembly: System.Reflection.AssemblyTitleAttribute("apache")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

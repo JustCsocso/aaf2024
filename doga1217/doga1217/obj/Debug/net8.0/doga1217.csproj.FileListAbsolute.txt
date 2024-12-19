@@ -1,0 +1,15 @@
+D:\munkakönyvtár\pintercsongi\aaf2024\doga1217\doga1217\bin\Debug\net8.0\doga1217.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\doga1217\doga1217\bin\Debug\net8.0\doga1217.deps.json
+D:\munkakönyvtár\pintercsongi\aaf2024\doga1217\doga1217\bin\Debug\net8.0\doga1217.runtimeconfig.json
+D:\munkakönyvtár\pintercsongi\aaf2024\doga1217\doga1217\bin\Debug\net8.0\doga1217.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\doga1217\doga1217\bin\Debug\net8.0\doga1217.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\doga1217\doga1217\obj\Debug\net8.0\doga1217.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\pintercsongi\aaf2024\doga1217\doga1217\obj\Debug\net8.0\doga1217.AssemblyInfoInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\doga1217\doga1217\obj\Debug\net8.0\doga1217.AssemblyInfo.cs
+D:\munkakönyvtár\pintercsongi\aaf2024\doga1217\doga1217\obj\Debug\net8.0\doga1217.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\doga1217\doga1217\obj\Debug\net8.0\doga1217.sourcelink.json
+D:\munkakönyvtár\pintercsongi\aaf2024\doga1217\doga1217\obj\Debug\net8.0\doga1217.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\doga1217\doga1217\obj\Debug\net8.0\refint\doga1217.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\doga1217\doga1217\obj\Debug\net8.0\doga1217.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\doga1217\doga1217\obj\Debug\net8.0\doga1217.genruntimeconfig.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\doga1217\doga1217\obj\Debug\net8.0\ref\doga1217.dll
