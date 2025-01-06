@@ -31,7 +31,21 @@ namespace PeldaRegexMatch
                 Console.WriteLine("{0} match status: {1}", testcase, match);
             }
 
+            string datum = "2024-02-12";
+            string datum2 = "24-02-12";
+         
+            // @"[^@]+\@[^\.]+\..+"
+            Regex datumMinta = new Regex(@"\d{4}-\d{2}-\d{2}");
+            bool illik = datumMinta.IsMatch(datum);
+            Console.WriteLine(illik);
+            illik = datumMinta.IsMatch(datum2);
+            Console.WriteLine(illik);
+
+            var talalat = datumMinta.Matches(datum2);
+            Console.WriteLine(talalat);
+
             Console.ReadKey();
+
         }
     }
 }
