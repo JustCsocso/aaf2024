@@ -3,12 +3,17 @@
   "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\belepteto\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{CDC53878-CFDC-46FC-BFC1-CB22AE263B25}|belepteto\\belepteto.csproj|d:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\belepteto\\belepteto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDC53878-CFDC-46FC-BFC1-CB22AE263B25}|belepteto\\belepteto.csproj|solutionrelative:belepteto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDC53878-CFDC-46FC-BFC1-CB22AE263B25}|belepteto\\belepteto.csproj|d:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\belepteto\\belepteto\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDC53878-CFDC-46FC-BFC1-CB22AE263B25}|belepteto\\belepteto.csproj|solutionrelative:belepteto\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{B5EAD211-1CEC-4EF0-950C-B248DF277516}|belepteto\\belepteto.csproj|d:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\belepteto\\belepteto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EAD211-1CEC-4EF0-950C-B248DF277516}|belepteto\\belepteto.csproj|solutionrelative:belepteto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 2a9d0ab6f5715ff3099a00024c4d7cd09e901354
     }
   ],
   "DocumentGroupContainers": [
@@ -18,6 +23,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -35,15 +41,29 @@
             },
             {
               "$type": "Document",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+>>>>>>> 2a9d0ab6f5715ff3099a00024c4d7cd09e901354
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\belepteto\\belepteto\\Program.cs",
               "RelativeDocumentMoniker": "belepteto\\Program.cs",
+<<<<<<< HEAD
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\belepteto\\belepteto\\Program.cs*",
               "RelativeToolTip": "belepteto\\Program.cs*",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T12:40:42.987Z",
+=======
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\belepteto\\belepteto\\Program.cs",
+              "RelativeToolTip": "belepteto\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:22:28.872Z",
+>>>>>>> 2a9d0ab6f5715ff3099a00024c4d7cd09e901354
               "EditorCaption": ""
             }
           ]

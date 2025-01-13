@@ -1,0 +1,15 @@
+D:\munkakönyvtár\pintercsongi\aaf2024\penztarcadoga\penztarcadoga\bin\Debug\net8.0\penztarcadoga.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\penztarcadoga\penztarcadoga\bin\Debug\net8.0\penztarcadoga.deps.json
+D:\munkakönyvtár\pintercsongi\aaf2024\penztarcadoga\penztarcadoga\bin\Debug\net8.0\penztarcadoga.runtimeconfig.json
+D:\munkakönyvtár\pintercsongi\aaf2024\penztarcadoga\penztarcadoga\bin\Debug\net8.0\penztarcadoga.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\penztarcadoga\penztarcadoga\bin\Debug\net8.0\penztarcadoga.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\penztarcadoga\penztarcadoga\obj\Debug\net8.0\penztarcadoga.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\pintercsongi\aaf2024\penztarcadoga\penztarcadoga\obj\Debug\net8.0\penztarcadoga.AssemblyInfoInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\penztarcadoga\penztarcadoga\obj\Debug\net8.0\penztarcadoga.AssemblyInfo.cs
+D:\munkakönyvtár\pintercsongi\aaf2024\penztarcadoga\penztarcadoga\obj\Debug\net8.0\penztarcadoga.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\penztarcadoga\penztarcadoga\obj\Debug\net8.0\penztarcadoga.sourcelink.json
+D:\munkakönyvtár\pintercsongi\aaf2024\penztarcadoga\penztarcadoga\obj\Debug\net8.0\penztarcadoga.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\penztarcadoga\penztarcadoga\obj\Debug\net8.0\refint\penztarcadoga.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\penztarcadoga\penztarcadoga\obj\Debug\net8.0\penztarcadoga.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\penztarcadoga\penztarcadoga\obj\Debug\net8.0\penztarcadoga.genruntimeconfig.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\penztarcadoga\penztarcadoga\obj\Debug\net8.0\ref\penztarcadoga.dll
