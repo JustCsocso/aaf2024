@@ -1,0 +1,7 @@
+D:\munkakönyvtár\pintercsongi\aaf2024\rekurzio\rekurzio\bin\Debug\rekurzio.exe.config
+D:\munkakönyvtár\pintercsongi\aaf2024\rekurzio\rekurzio\bin\Debug\rekurzio.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\rekurzio\rekurzio\bin\Debug\rekurzio.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\rekurzio\rekurzio\obj\Debug\rekurzio.csproj.AssemblyReference.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\rekurzio\rekurzio\obj\Debug\rekurzio.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\rekurzio\rekurzio\obj\Debug\rekurzio.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\rekurzio\rekurzio\obj\Debug\rekurzio.pdb

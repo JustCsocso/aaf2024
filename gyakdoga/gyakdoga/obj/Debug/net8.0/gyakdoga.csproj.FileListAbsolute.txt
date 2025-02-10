@@ -1,0 +1,15 @@
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakdoga\gyakdoga\bin\Debug\net8.0\gyakdoga.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakdoga\gyakdoga\bin\Debug\net8.0\gyakdoga.deps.json
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakdoga\gyakdoga\bin\Debug\net8.0\gyakdoga.runtimeconfig.json
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakdoga\gyakdoga\bin\Debug\net8.0\gyakdoga.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakdoga\gyakdoga\bin\Debug\net8.0\gyakdoga.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakdoga\gyakdoga\obj\Debug\net8.0\gyakdoga.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakdoga\gyakdoga\obj\Debug\net8.0\gyakdoga.AssemblyInfoInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakdoga\gyakdoga\obj\Debug\net8.0\gyakdoga.AssemblyInfo.cs
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakdoga\gyakdoga\obj\Debug\net8.0\gyakdoga.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakdoga\gyakdoga\obj\Debug\net8.0\gyakdoga.sourcelink.json
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakdoga\gyakdoga\obj\Debug\net8.0\gyakdoga.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakdoga\gyakdoga\obj\Debug\net8.0\refint\gyakdoga.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakdoga\gyakdoga\obj\Debug\net8.0\gyakdoga.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakdoga\gyakdoga\obj\Debug\net8.0\gyakdoga.genruntimeconfig.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\gyakdoga\gyakdoga\obj\Debug\net8.0\ref\gyakdoga.dll

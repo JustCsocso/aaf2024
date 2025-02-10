@@ -1,0 +1,15 @@
+D:\munkakönyvtár\pintercsongi\aaf2024\erettsegi\erettsegi\bin\Debug\net8.0\erettsegi.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\erettsegi\erettsegi\bin\Debug\net8.0\erettsegi.deps.json
+D:\munkakönyvtár\pintercsongi\aaf2024\erettsegi\erettsegi\bin\Debug\net8.0\erettsegi.runtimeconfig.json
+D:\munkakönyvtár\pintercsongi\aaf2024\erettsegi\erettsegi\bin\Debug\net8.0\erettsegi.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\erettsegi\erettsegi\bin\Debug\net8.0\erettsegi.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\erettsegi\erettsegi\obj\Debug\net8.0\erettsegi.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\pintercsongi\aaf2024\erettsegi\erettsegi\obj\Debug\net8.0\erettsegi.AssemblyInfoInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\erettsegi\erettsegi\obj\Debug\net8.0\erettsegi.AssemblyInfo.cs
+D:\munkakönyvtár\pintercsongi\aaf2024\erettsegi\erettsegi\obj\Debug\net8.0\erettsegi.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\erettsegi\erettsegi\obj\Debug\net8.0\erettsegi.sourcelink.json
+D:\munkakönyvtár\pintercsongi\aaf2024\erettsegi\erettsegi\obj\Debug\net8.0\erettsegi.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\erettsegi\erettsegi\obj\Debug\net8.0\refint\erettsegi.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\erettsegi\erettsegi\obj\Debug\net8.0\erettsegi.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\erettsegi\erettsegi\obj\Debug\net8.0\erettsegi.genruntimeconfig.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\erettsegi\erettsegi\obj\Debug\net8.0\ref\erettsegi.dll
