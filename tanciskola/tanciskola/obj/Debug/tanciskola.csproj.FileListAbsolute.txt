@@ -1,0 +1,7 @@
+D:\munkakönyvtár\pintercsongi\aaf2024\tanciskola\tanciskola\bin\Debug\tanciskola.exe.config
+D:\munkakönyvtár\pintercsongi\aaf2024\tanciskola\tanciskola\bin\Debug\tanciskola.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\tanciskola\tanciskola\bin\Debug\tanciskola.pdb
+D:\munkakönyvtár\pintercsongi\aaf2024\tanciskola\tanciskola\obj\Debug\tanciskola.csproj.AssemblyReference.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\tanciskola\tanciskola\obj\Debug\tanciskola.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\pintercsongi\aaf2024\tanciskola\tanciskola\obj\Debug\tanciskola.exe
+D:\munkakönyvtár\pintercsongi\aaf2024\tanciskola\tanciskola\obj\Debug\tanciskola.pdb
