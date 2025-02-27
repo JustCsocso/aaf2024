@@ -16,9 +16,13 @@ namespace gombmenekulo
     /// </summary>
     public partial class MainWindow : Window
     {
+        private List<Button> gombok;
+
         public MainWindow()
         {
             InitializeComponent();
+
+            gombok= new List<Button> { button1,button2,button3,button4,button5,button6,button7,button8,button9};
         }
 
         private void button_Click(object sender, RoutedEventArgs e)
@@ -55,10 +59,22 @@ namespace gombmenekulo
                     b.Foreground = Brushes.Blue;
                     b.Content = "o";
                     mivoltelobb = "o";
+                    
                 }
             }
             
             
+            
+            
+        }
+
+        private void button10_Click(object sender, RoutedEventArgs e)
+        {
+            foreach(var button in gombok)
+            {
+                button.Content = "";
+            }
+            mivoltelobb= "o";
         }
     }
 }

@@ -30,6 +30,7 @@
                     <Button x:Name="button5" Content="" HorizontalAlignment="Left" Margin="275,135,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click"/>
                     <Button x:Name="button7" Content="" HorizontalAlignment="Left" Margin="358,65,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click"/>
                     <Button x:Name="button4" Content="" HorizontalAlignment="Left" Margin="275,65,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click"/>
+                    <Button x:Name="button10" Content="Reset" HorizontalAlignment="Left" Margin="476,203,0,0" VerticalAlignment="Top" Height="50" Width="74" Click="button10_Click"/>
                 </Grid>
             </TabItem>
         </TabControl>
