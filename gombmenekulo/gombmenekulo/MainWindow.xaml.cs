@@ -16,7 +16,7 @@ namespace gombmenekulo
     /// </summary>
     public partial class MainWindow : Window
     {
-        private List<Button> gombok;
+        public List<Button> gombok;
 
         public MainWindow()
         {

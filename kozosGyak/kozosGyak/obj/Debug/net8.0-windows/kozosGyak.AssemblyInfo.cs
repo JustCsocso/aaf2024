@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kozosGyak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1535d4d7cdd576ad4cd517bc0787ce192da284cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+355c8331b9c9cd56a05d5d822642af311e8cc771")]
 [assembly: System.Reflection.AssemblyProductAttribute("kozosGyak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kozosGyak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

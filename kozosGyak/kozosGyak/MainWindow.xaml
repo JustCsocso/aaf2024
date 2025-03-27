@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid x:Name="grid">
         <Button x:Name="startGomb" Content="Kezdés" HorizontalAlignment="Left" Margin="471,180,0,0" VerticalAlignment="Top" Click="startGomb_Click"/>
-        <Image x:Name="image" HorizontalAlignment="Left" Height="100" Margin="39,268,0,0" VerticalAlignment="Top" Width="100" Source="/akna.png"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="100" Margin="68,278,0,0" VerticalAlignment="Top" Width="100" Source="/akna.png"/>
 
     </Grid>
 </Window>
