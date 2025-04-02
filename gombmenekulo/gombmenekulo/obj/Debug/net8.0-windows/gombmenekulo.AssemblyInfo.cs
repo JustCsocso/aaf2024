@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gombmenekulo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c6aa11618c97f41cef49470860098de4792882b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1535d4d7cdd576ad4cd517bc0787ce192da284cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("gombmenekulo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gombmenekulo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

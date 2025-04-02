@@ -21,16 +21,21 @@
             </TabItem>
             <TabItem Header="TabItem">
                 <Grid Background="#FFE5E5E5">
-                    <Button x:Name="button1" Content="" HorizontalAlignment="Left" Margin="188,65,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click"/>
-                    <Button x:Name="button2" Content="" HorizontalAlignment="Left" Margin="188,135,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click"/>
-                    <Button x:Name="button3" Content="" HorizontalAlignment="Left" Margin="188,203,0,0" VerticalAlignment="Top" Height="50" Width="50" RenderTransformOrigin="0.88,1.197" Click="button1_Click"/>
-                    <Button x:Name="button9" Content="" HorizontalAlignment="Left" Margin="358,203,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click"/>
-                    <Button x:Name="button6" Content="" HorizontalAlignment="Left" Margin="275,203,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click"/>
-                    <Button x:Name="button8" Content="" HorizontalAlignment="Left" Margin="358,135,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click"/>
-                    <Button x:Name="button5" Content="" HorizontalAlignment="Left" Margin="275,135,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click"/>
-                    <Button x:Name="button7" Content="" HorizontalAlignment="Left" Margin="358,65,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click"/>
-                    <Button x:Name="button4" Content="" HorizontalAlignment="Left" Margin="275,65,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click"/>
-                    <Button x:Name="button10" Content="Reset" HorizontalAlignment="Left" Margin="476,203,0,0" VerticalAlignment="Top" Height="50" Width="74" Click="button10_Click"/>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="18*"/>
+                        <ColumnDefinition Width="9*"/>
+                        <ColumnDefinition Width="767*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button x:Name="button1" Content="" HorizontalAlignment="Left" Margin="161,65,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click" Grid.Column="2"/>
+                    <Button x:Name="button2" Content="" HorizontalAlignment="Left" Margin="161,135,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click" Grid.Column="2"/>
+                    <Button x:Name="button3" Content="" HorizontalAlignment="Left" Margin="161,203,0,0" VerticalAlignment="Top" Height="50" Width="50" RenderTransformOrigin="0.88,1.197" Click="button1_Click" Grid.Column="2"/>
+                    <Button x:Name="button9" Content="" HorizontalAlignment="Left" Margin="331,203,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click" Grid.Column="2"/>
+                    <Button x:Name="button6" Content="" HorizontalAlignment="Left" Margin="248,203,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click" Grid.Column="2"/>
+                    <Button x:Name="button8" Content="" HorizontalAlignment="Left" Margin="331,135,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click" Grid.Column="2"/>
+                    <Button x:Name="button5" Content="" HorizontalAlignment="Left" Margin="248,135,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click" Grid.Column="2"/>
+                    <Button x:Name="button7" Content="" HorizontalAlignment="Left" Margin="331,65,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click" Grid.Column="2"/>
+                    <Button x:Name="button4" Content="" HorizontalAlignment="Left" Margin="248,65,0,0" VerticalAlignment="Top" Height="50" Width="50" Click="button1_Click" Grid.Column="2"/>
+                    <Button x:Name="button10" Content="Reset" HorizontalAlignment="Left" Margin="449,203,0,0" VerticalAlignment="Top" Height="50" Width="74" Click="button10_Click" Grid.Column="2"/>
                 </Grid>
             </TabItem>
         </TabControl>

@@ -46,7 +46,7 @@ namespace kozosGyak
             }
 
             this.SizeToContent = SizeToContent.WidthAndHeight;
-            
+
             aknaLerak();
             aknaMutat();
         }
@@ -82,9 +82,9 @@ namespace kozosGyak
             {
                 for (int j = 0; j < aknaHely.GetLength(1); j++)
                 {
-                    if (aknaHely[k, j] != 10) 
+                    if (aknaHely[k, j] != 10)
                     {
-                        gombok[k,j].Content = aknaHely[k,j];
+                        gombok[k, j].Content = aknaHely[k, j];
                     }
                 }
 
@@ -94,45 +94,65 @@ namespace kozosGyak
         int aknaSzamol(int sor, int oszlop)
         {
             int db = 0;
-            if(sor-1>0 && oszlop-1>0 && aknaHely[sor - 1, oszlop - 1] == 10) {db++;}
-            if (sor - 1 > 0 && oszlop >= 0 && aknaHely[sor - 1, oszlop] == 10) {db++;}
-            if (sor - 1 > 0 && oszlop +1 > this.oszlop && aknaHely[sor - 1, oszlop + 1] == 10) {db++;}
-            
-            if (sor >=0 && oszlop - 1 > 0 && aknaHely[sor, oszlop - 1] == 10) {db++;}
-            if (sor>= 0 && oszlop + 1 > this.oszlop && aknaHely[sor, oszlop + 1] == 10) {db++;}
-            
-            if (sor + 1 > 0 && oszlop - 1 > this.oszlop && aknaHely[sor + 1, oszlop - 1] == 10) {db++;}
-            if (sor + 1 > 0 && oszlop >= this.oszlop && aknaHely[sor + 1, oszlop] == 10) {db++;}
-            if (sor + 1 > 0 && oszlop + 1 > this.oszlop && aknaHely[sor + 1, oszlop + 1] == 10) {db++;}
+            if (sor - 1 > 0 && oszlop - 1 > 0 && aknaHely[sor - 1, oszlop - 1] == 10) { db++; }
+            if (sor - 1 > 0 && oszlop >= 0 && aknaHely[sor - 1, oszlop] == 10) { db++; }
+            if (sor - 1 > 0 && oszlop + 1 > this.oszlop && aknaHely[sor - 1, oszlop + 1] == 10) { db++; }
+
+            if (sor >= 0 && oszlop - 1 > 0 && aknaHely[sor, oszlop - 1] == 10) { db++; }
+            if (sor >= 0 && oszlop + 1 > this.oszlop && aknaHely[sor, oszlop + 1] == 10) { db++; }
+
+            if (sor + 1 > 0 && oszlop - 1 > this.oszlop && aknaHely[sor + 1, oszlop - 1] == 10) { db++; }
+            if (sor + 1 > 0 && oszlop >= this.oszlop && aknaHely[sor + 1, oszlop] == 10) { db++; }
+            if (sor + 1 > 0 && oszlop + 1 > this.oszlop && aknaHely[sor + 1, oszlop + 1] == 10) { db++; }
             return db;
         }
         private void kattinats(object sender, RoutedEventArgs e)
         {
-            Button button=sender as Button;
+            Button button = sender as Button;
 
-            for (int i = 0; i < gombok.GetLength(0); i++) 
-            { 
-                for(int k=0;k<gombok.GetLength(1); k++)
+            for (int i = 0; i < gombok.GetLength(0); i++)
+            {
+                for (int k = 0; k < gombok.GetLength(1); k++)
                 {
                     if (gombok[i, k] == button)
                     {
                         gombok[i, k].Content = aknaHely[i, k];
-                        helyEllenoriz(i,k);
+                        helyEllenoriz(i, k);
 
                         k = gombok.GetLength(1);
-                        i=gombok.GetLength(0);
+                        i = gombok.GetLength(0);
                         break;
                     }
                 }
             }
         }
 
-       void helyEllenoriz(int sor, int oszlop)
+        void helyEllenoriz(int sor, int oszlop)
         {
             if (aknaHely[sor, oszlop] == 10)
             {
-                Image akna = new Image;
-                akna.Source=
+                System.Windows.Controls.Image akna = new System.Windows.Controls.Image();
+                akna.Source = new BitmapImage(new Uri("akna.png", UriKind.Relative));
+
+                gombok[sor, oszlop].Content = akna;
+            }
+            else if (aknaHely[sor, oszlop] == 0)
+            {
+                for(int i = -1; i < 2; i++)
+                {
+                    for(int j=-1; j<2; j++)
+                    {
+                        try
+                        {
+                            int temp=aknaHely[sor + i, oszlop + j];
+                            if(i!=0 || j != 0)
+                            {
+                                helyEllenoriz(sor + i, oszlop + j);
+                            }
+                        }
+                        catch { }
+                    }
+                }
             }
         }
     }

@@ -38,9 +38,15 @@
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\SzinuszGorbe\\SzinuszGorbe\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "SzinuszGorbe\\MainWindow.xaml.cs",
+<<<<<<< HEAD
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\SzinuszGorbe\\SzinuszGorbe\\MainWindow.xaml.cs",
               "RelativeToolTip": "SzinuszGorbe\\MainWindow.xaml.cs",
               "ViewState": "AQIAAIUAAAAAAAAAAAAAAJgAAAAmAAAA",
+=======
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\SzinuszGorbe\\SzinuszGorbe\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "SzinuszGorbe\\MainWindow.xaml.cs*",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACcAAAAsAAAA",
+>>>>>>> 35460401daa8bf442ff30f2da14eff1d226eed5f
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T12:35:06.202Z",
               "EditorCaption": ""
