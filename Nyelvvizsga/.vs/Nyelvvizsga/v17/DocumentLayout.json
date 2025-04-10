@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\Nyelvvizsga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEE57C6-FCCB-4A0C-97D5-80E68265C758}|Nyelvvizsga\\Nyelvvizsga.csproj|d:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\nyelvvizsga\\nyelvvizsga\\nyelvadat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AEE57C6-FCCB-4A0C-97D5-80E68265C758}|Nyelvvizsga\\Nyelvvizsga.csproj|solutionrelative:nyelvvizsga\\nyelvadat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEE57C6-FCCB-4A0C-97D5-80E68265C758}|Nyelvvizsga\\Nyelvvizsga.csproj|d:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\nyelvvizsga\\nyelvvizsga\\evadat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AEE57C6-FCCB-4A0C-97D5-80E68265C758}|Nyelvvizsga\\Nyelvvizsga.csproj|solutionrelative:nyelvvizsga\\evadat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEE57C6-FCCB-4A0C-97D5-80E68265C758}|Nyelvvizsga\\Nyelvvizsga.csproj|d:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\nyelvvizsga\\nyelvvizsga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AEE57C6-FCCB-4A0C-97D5-80E68265C758}|Nyelvvizsga\\Nyelvvizsga.csproj|solutionrelative:nyelvvizsga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NyelvAdat.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\Nyelvvizsga\\Nyelvvizsga\\NyelvAdat.cs",
+              "RelativeDocumentMoniker": "Nyelvvizsga\\NyelvAdat.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\Nyelvvizsga\\Nyelvvizsga\\NyelvAdat.cs",
+              "RelativeToolTip": "Nyelvvizsga\\NyelvAdat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:26:37.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "evAdat.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\Nyelvvizsga\\Nyelvvizsga\\evAdat.cs",
+              "RelativeDocumentMoniker": "Nyelvvizsga\\evAdat.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\Nyelvvizsga\\Nyelvvizsga\\evAdat.cs",
+              "RelativeToolTip": "Nyelvvizsga\\evAdat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:22:30.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\Nyelvvizsga\\Nyelvvizsga\\Program.cs",
+              "RelativeDocumentMoniker": "Nyelvvizsga\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\Nyelvvizsga\\Nyelvvizsga\\Program.cs",
+              "RelativeToolTip": "Nyelvvizsga\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:17:38.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
