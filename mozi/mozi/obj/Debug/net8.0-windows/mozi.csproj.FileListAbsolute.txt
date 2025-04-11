@@ -19,3 +19,5 @@ D:\munkakönyvtár\pintercsongi\aaf2024\mozi\mozi\obj\Debug\net8.0-windows\refin
 D:\munkakönyvtár\pintercsongi\aaf2024\mozi\mozi\obj\Debug\net8.0-windows\mozi.pdb
 D:\munkakönyvtár\pintercsongi\aaf2024\mozi\mozi\obj\Debug\net8.0-windows\mozi.genruntimeconfig.cache
 D:\munkakönyvtár\pintercsongi\aaf2024\mozi\mozi\obj\Debug\net8.0-windows\ref\mozi.dll
+D:\munkakönyvtár\pintercsongi\aaf2024\mozi\mozi\obj\Debug\net8.0-windows\Mozi.g.cs
+D:\munkakönyvtár\pintercsongi\aaf2024\mozi\mozi\obj\Debug\net8.0-windows\Mozi.baml

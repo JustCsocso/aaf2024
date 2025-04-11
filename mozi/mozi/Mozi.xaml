@@ -1,0 +1,23 @@
+﻿<Window x:Class="mozi.Mozi"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mozi"
+        mc:Ignorable="d"
+        Title="Mozi" Height="450" Width="800">
+    <Grid Background="#FF423E3E">
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Center" Margin="0,119,0,0" TextWrapping="Wrap" Text="A vietnámi háborús veterán, John Rambo (Sylvester Stallone) hazatér Amerikába, ahol idegennek és üldözöttnek érzi magát. Egy kisváros seriffje igazságtalanul bánik vele, ami elszabadítja Rambo túlélő ösztöneit. A film egy ember harcát mutatja be a rendszerrel és saját traumáival szemben.
+                   " VerticalAlignment="Top" Width="630" Foreground="White" Height="98" FontSize="17"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Center" Margin="0,53,0,0" TextWrapping="Wrap" Text="RAMBO – ELSŐ VÉR (1982)" VerticalAlignment="Top" Foreground="White" Height="38" Width="326" FontSize="25"/>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Center" Margin="0,222,0,0" TextWrapping="Wrap" Text="🔫 John Rambo (Sylvester Stallone)
+Egy magányos vietnámi veterán, aki poszttraumás stresszel küzd, de elképesztő túlélési ösztönei és katonai képességei legendássá teszik, amikor sarokba szorítják.
+
+👮‍♂️ Will Teasle seriff (Brian Dennehy)
+Egy kisváros keménykezű rendőrfőnöke, aki Rambo jelenlétét fenyegetésként kezeli, és személyes hadjáratot indít ellene – ezzel akaratlanul is háborút szabadít fel.
+
+🎖️ Samuel Trautman ezredes (Richard Crenna)
+Rambo volt parancsnoka, aki az egyetlen, aki igazán ismeri őt. Ő próbál közvetíteni és megakadályozni a további vérontást." VerticalAlignment="Top" Width="620" Foreground="White"/>
+
+    </Grid>
+</Window>

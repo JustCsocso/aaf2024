@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TabControl x:Name="tabControl">
-            
+
             <TabItem>
                 <Grid Background="#FFE5E5E5" Margin="0,0,0,1"/>
                 <TabItem.Header>
@@ -16,16 +16,28 @@
                 </TabItem.Header>
             </TabItem>
             <TabItem Header="Filmek" FontSize="20">
-                <Grid Background="#FFE5E5E5"/>
+                <Grid Background="#FF423E3E">
+                    <Image x:Name="image" HorizontalAlignment="Left" Height="171" Margin="8,22,0,0" VerticalAlignment="Top" Width="129" Source="/rambo.png" RenderTransformOrigin="0.5,0.5">
+                        <Image.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="0.013"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Image.RenderTransform>
+                    </Image>
+                    <Button x:Name="button" Content="Bővebben" HorizontalAlignment="Left" Margin="10,198,0,0" VerticalAlignment="Top" Width="116" Background="#FFB11616" Click="button_Click"/>
+                </Grid>
             </TabItem>
-            <TabItem Header="Jegyek" FontSize="20">
-                <Grid Background="#FFE5E5E5"/>
+            <TabItem Header="Jegyek" FontSize="20" HorizontalAlignment="Right" Margin="0,-2,-2,0" Width="76">
+                <Grid Background="#FF423E3E"/>
             </TabItem>
             <TabItem Header="Büfé" FontSize="20">
-                <Grid Background="#FFE5E5E5"/>
+                <Grid Background="#FF423E3E"/>
             </TabItem>
             <TabItem Header="Névjegy" FontSize="20">
-                <Grid Background="#FFE5E5E5"/>
+                <Grid Background="#FF423E3E"/>
             </TabItem>
         </TabControl>
 
