@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D409A2F-1EDB-4E6C-8170-4C55D7ABA593}|mozi2\\mozi2.csproj|d:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi2\\mozi2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D409A2F-1EDB-4E6C-8170-4C55D7ABA593}|mozi2\\mozi2.csproj|solutionrelative:mozi2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D409A2F-1EDB-4E6C-8170-4C55D7ABA593}|mozi2\\mozi2.csproj|d:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi2\\mozi2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D409A2F-1EDB-4E6C-8170-4C55D7ABA593}|mozi2\\mozi2.csproj|solutionrelative:mozi2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi2\\mozi2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "mozi2\\MainWindow.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi2\\mozi2\\MainWindow.xaml",
+              "RelativeToolTip": "mozi2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-11T11:54:19.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi2\\mozi2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "mozi2\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi2\\mozi2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "mozi2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:54:17.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

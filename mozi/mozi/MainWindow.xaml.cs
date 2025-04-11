@@ -25,7 +25,14 @@ namespace mozi
         {
             Mozi win2 = new Mozi();
             win2.Show();
-            this.Close();
+            this.Hide();
+           
+
+        }
+
+        private void button_Click1(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

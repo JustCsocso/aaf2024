@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D2F3F51-7D40-4A51-A94D-AADEE2CE0322}|mozi\\mozi.csproj|d:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi\\mozi\\mozi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6D2F3F51-7D40-4A51-A94D-AADEE2CE0322}|mozi\\mozi.csproj|solutionrelative:mozi\\mozi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D2F3F51-7D40-4A51-A94D-AADEE2CE0322}|mozi\\mozi.csproj|d:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi\\mozi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6D2F3F51-7D40-4A51-A94D-AADEE2CE0322}|mozi\\mozi.csproj|solutionrelative:mozi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2F3F51-7D40-4A51-A94D-AADEE2CE0322}|mozi\\mozi.csproj|d:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi\\mozi\\mozi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D2F3F51-7D40-4A51-A94D-AADEE2CE0322}|mozi\\mozi.csproj|solutionrelative:mozi\\mozi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D2F3F51-7D40-4A51-A94D-AADEE2CE0322}|mozi\\mozi.csproj|d:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi\\mozi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6D2F3F51-7D40-4A51-A94D-AADEE2CE0322}|mozi\\mozi.csproj|d:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi\\mozi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6D2F3F51-7D40-4A51-A94D-AADEE2CE0322}|mozi\\mozi.csproj|solutionrelative:mozi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2F3F51-7D40-4A51-A94D-AADEE2CE0322}|mozi\\mozi.csproj|d:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi\\mozi\\mozi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2F3F51-7D40-4A51-A94D-AADEE2CE0322}|mozi\\mozi.csproj|solutionrelative:mozi\\mozi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,23 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi\\mozi\\App.xaml",
-              "RelativeDocumentMoniker": "mozi\\App.xaml",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi\\mozi\\App.xaml",
-              "RelativeToolTip": "mozi\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-11T07:32:21.399Z",
+              "DocumentIndex": 4,
+              "Title": "Mozi.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi\\mozi\\Mozi.xaml.cs",
+              "RelativeDocumentMoniker": "mozi\\Mozi.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi\\mozi\\Mozi.xaml.cs",
+              "RelativeToolTip": "mozi\\Mozi.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:32:53.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Mozi.xaml",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi\\mozi\\Mozi.xaml",
               "RelativeDocumentMoniker": "mozi\\Mozi.xaml",
@@ -54,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi\\mozi\\MainWindow.xaml",
               "RelativeDocumentMoniker": "mozi\\MainWindow.xaml",
@@ -72,9 +77,21 @@
               "RelativeDocumentMoniker": "mozi\\MainWindow.xaml.cs",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi\\mozi\\MainWindow.xaml.cs",
               "RelativeToolTip": "mozi\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAnwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T09:03:40.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi\\mozi\\App.xaml",
+              "RelativeDocumentMoniker": "mozi\\App.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aaf2024\\mozi\\mozi\\App.xaml",
+              "RelativeToolTip": "mozi\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-11T07:32:21.399Z",
               "EditorCaption": ""
             }
           ]

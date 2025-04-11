@@ -10,7 +10,7 @@
         <TabControl x:Name="tabControl">
 
             <TabItem>
-                <Grid Background="#FFE5E5E5" Margin="0,0,0,1"/>
+                <Grid Background="#FF423E3E" Margin="0,0,0,1"/>
                 <TabItem.Header>
                     <Image Source="/retro.png" Width="50" Height="50"/>
                 </TabItem.Header>
@@ -27,7 +27,9 @@
                             </TransformGroup>
                         </Image.RenderTransform>
                     </Image>
-                    <Button x:Name="button" Content="Bővebben" HorizontalAlignment="Left" Margin="10,198,0,0" VerticalAlignment="Top" Width="116" Background="#FFB11616" Click="button_Click"/>
+                    <Button x:Name="button" Content="Bővebben" HorizontalAlignment="Left" Margin="10,198,0,0" VerticalAlignment="Top" Width="116" Background="#FFE02D2D" Click="button_Click"/>
+                    <Image x:Name="image1" HorizontalAlignment="Left" Height="168" Margin="178,24,0,0" VerticalAlignment="Top" Width="173" Source="/vuk.png"/>
+                    <Button x:Name="button1" Content="Bővebben" HorizontalAlignment="Left" Margin="178,198,0,0" VerticalAlignment="Top" Width="116" Background="#FFE02D2D" Click="button_Click1"/>
                 </Grid>
             </TabItem>
             <TabItem Header="Jegyek" FontSize="20" HorizontalAlignment="Right" Margin="0,-2,-2,0" Width="76">

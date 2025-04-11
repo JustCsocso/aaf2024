@@ -7,17 +7,16 @@
         mc:Ignorable="d"
         Title="Mozi" Height="450" Width="800">
     <Grid Background="#FF423E3E">
-        <TextBlock x:Name="textBlock" HorizontalAlignment="Center" Margin="0,119,0,0" TextWrapping="Wrap" Text="A vietnámi háborús veterán, John Rambo (Sylvester Stallone) hazatér Amerikába, ahol idegennek és üldözöttnek érzi magát. Egy kisváros seriffje igazságtalanul bánik vele, ami elszabadítja Rambo túlélő ösztöneit. A film egy ember harcát mutatja be a rendszerrel és saját traumáival szemben.
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="72,314,0,0" TextWrapping="Wrap" Text="A vietnámi háborús veterán, John Rambo (Sylvester Stallone) hazatér Amerikába, ahol idegennek és üldözöttnek érzi magát. Egy kisváros seriffje igazságtalanul bánik vele, ami elszabadítja Rambo túlélő ösztöneit. A film egy ember harcát mutatja be a rendszerrel és saját traumáival szemben.
                    " VerticalAlignment="Top" Width="630" Foreground="White" Height="98" FontSize="17"/>
         <TextBlock x:Name="textBlock1" HorizontalAlignment="Center" Margin="0,53,0,0" TextWrapping="Wrap" Text="RAMBO – ELSŐ VÉR (1982)" VerticalAlignment="Top" Foreground="White" Height="38" Width="326" FontSize="25"/>
-        <TextBlock x:Name="textBlock2" HorizontalAlignment="Center" Margin="0,222,0,0" TextWrapping="Wrap" Text="🔫 John Rambo (Sylvester Stallone)
-Egy magányos vietnámi veterán, aki poszttraumás stresszel küzd, de elképesztő túlélési ösztönei és katonai képességei legendássá teszik, amikor sarokba szorítják.
-
-👮‍♂️ Will Teasle seriff (Brian Dennehy)
-Egy kisváros keménykezű rendőrfőnöke, aki Rambo jelenlétét fenyegetésként kezeli, és személyes hadjáratot indít ellene – ezzel akaratlanul is háborút szabadít fel.
-
-🎖️ Samuel Trautman ezredes (Richard Crenna)
-Rambo volt parancsnoka, aki az egyetlen, aki igazán ismeri őt. Ő próbál közvetíteni és megakadályozni a további vérontást." VerticalAlignment="Top" Width="620" Foreground="White"/>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="358,110,0,0" TextWrapping="Wrap" Text="Cím: First Blood (magyarul: Rambo – Első vér)" VerticalAlignment="Top" Height="32" Width="344" Foreground="White" FontSize="17"/>
+        <TextBlock x:Name="textBlock2_Copy" HorizontalAlignment="Left" Margin="358,147,0,0" TextWrapping="Wrap" Text="Megjelenés éve: 1982" VerticalAlignment="Top" Height="32" Width="344" Foreground="White" FontSize="17"/>
+        <TextBlock x:Name="textBlock2_Copy1" HorizontalAlignment="Left" Margin="358,185,0,0" TextWrapping="Wrap" Text="Korhatár-besorolás: 16" VerticalAlignment="Top" Height="32" Width="344" Foreground="White" FontSize="17"/>
+        <TextBlock x:Name="textBlock2_Copy2" HorizontalAlignment="Left" Margin="358,222,0,0" TextWrapping="Wrap" Text="Időtartam: kb. 93 perc (1 óra 33 perc)" VerticalAlignment="Top" Height="32" Width="344" Foreground="White" FontSize="17"/>
+        <TextBlock x:Name="textBlock2_Copy3" HorizontalAlignment="Left" Margin="358,259,0,0" TextWrapping="Wrap" Text="Műfaj: akció, dráma, thriller" VerticalAlignment="Top" Height="32" Width="344" Foreground="White" FontSize="17"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="190" Margin="109,110,0,0" VerticalAlignment="Top" Width="201" Source="/rambo.png"/>
+        <Button x:Name="button" Content="Visszagomb" HorizontalAlignment="Left" Margin="686,29,0,0" VerticalAlignment="Top" Height="39" Width="68" Background="#FFE02D2D" Click="button_Click"/>
 
     </Grid>
 </Window>

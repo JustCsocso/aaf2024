@@ -11,11 +11,13 @@
   <ItemGroup>
     <None Remove="rambo.png" />
     <None Remove="retro.png" />
+    <None Remove="vuk.png" />
   </ItemGroup>
 
   <ItemGroup>
     <Resource Include="rambo.png" />
     <Resource Include="retro.png" />
+    <Resource Include="vuk.png" />
   </ItemGroup>
 
 </Project>
